@@ -105,7 +105,6 @@ fun ProfileScreen(navController: NavController) {
                     // Profile Title Text
                     Text(
                         text = "My Profile",
-                       // fontWeight = FontWeight.Bold,
                         fontSize = 24.sp,
                         style = MaterialTheme.typography.titleLarge.copy(color = Color.White),
                         textAlign = TextAlign.Center,
